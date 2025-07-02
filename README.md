@@ -6,9 +6,9 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologías y librerí
 
 * **Python:** Lenguaje principal para el backend
 * **Neo4j:** Base de datos de grafos para modelar relaciones complejas
-**`CustomTkinter`**: Para construir la interfaz gráfica de escritorio
-**`PIL (Pillow)`**: Para el manejo de imágenes en la interfaz
-**`Neo4j Python Driver:`**: Conexión con la base de datos Neo4j
+* **`CustomTkinter`**: Para construir la interfaz gráfica de escritorio
+* **`PIL (Pillow)`**: Para el manejo de imágenes en la interfaz
+* **`Neo4j Python Driver:`**: Conexión con la base de datos Neo4j
 
 ## Instalación y Ejecución
 
@@ -22,7 +22,7 @@ Asegúrate de tener instalado:
 * pip (gestor de paquetes de Python)
 * Neo4j Desktop: Asegúrate de tener una instancia de Neo4j en ejecución. Puedes descargarlo desde la página oficial de Neo4j
 
-### Pasos
+### Pasos:
 
 1.  **Clona el repositorio:**
 
